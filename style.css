@@ -1,0 +1,21 @@
+body {
+  
+    background: white;
+    text-align: center;
+}
+
+p{
+    color:teal;
+}
+.service {
+    display: inline-block;
+    width: 22%;
+
+}
+
+i{
+
+color: coral;
+}
+
+
